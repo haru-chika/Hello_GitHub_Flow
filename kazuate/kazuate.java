@@ -1,7 +1,7 @@
 import java.util.InputMismatchException; //クラスInputMismatchException: 不正な入力の型
 import java.util.Scanner;
 
-public class kazuate {
+public class Kazuate {
 
     public static void main(String[] args) {
 
